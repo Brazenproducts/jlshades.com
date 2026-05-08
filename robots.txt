@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jlshades.com/sitemap.xml
